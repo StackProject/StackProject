@@ -1,4 +1,4 @@
-StackProject
+Stack Project
 ============
 
 Comming Soon :)
